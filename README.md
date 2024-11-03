@@ -1,6 +1,3 @@
-Aquí tienes una descripción detallada para conectar los LEDs y resistencias a la ESP32-WROOM-32D. Esto será ideal para el archivo README en GitHub:
-
----
 
 ### Conexión de LEDs y resistencias a la ESP32-WROOM-32D
 
