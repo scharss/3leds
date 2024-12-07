@@ -32,3 +32,10 @@ Si utilizas resistencias de un valor diferente, asegúrate de que sean lo sufici
 ---
 
 Este esquema proporciona una explicación clara para quienes deseen replicar el proyecto y conecta correctamente los LEDs de manera segura a la ESP32-WROOM-32D.
+# Proyecto Asombroso
+
+¡Mira este video relacionado con el proyecto!
+
+[![Mira el video en Instagram](https://raw.githubusercontent.com/scharss/3leds/1a1e4f44a242a2da31e6a3ba39c8d7af060bacdd/img/3leds.jpg)](https://www.instagram.com/p/DB6uTd3pl3h/)
+
+Haz clic en la imagen para verlo en Instagram.
